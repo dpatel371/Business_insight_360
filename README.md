@@ -37,3 +37,4 @@ Project Link: [Business_insight_360_Live](https://www.novypro.com/project/busine
 - Consumer
 
 # Data Modelling
+Data model is vital step in creating the visualisation. Connection between the table helps in data accuracy and consistency and realtion is build using the snow flake schema the one of popular schema to be used for best practises.

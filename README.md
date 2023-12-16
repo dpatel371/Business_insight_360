@@ -4,7 +4,7 @@ AtliQ Hardware is growing rapidly in the recent years, they have decided to impl
 
 - Project Link: [Business_insight_360_Live](https://www.novypro.com/project/business-insight-360-25)
 - Github : [My_Profile](https://github.com/dpatel371/dpatel371)
-- LinkedIn : [My_LinkedIn_Profile](www.linkedin.com/in/dipeshpatel2810)
+- LinkedIn : [My_LinkedIn_Profile](https://www.linkedin.com/in/dipeshpatel2810/)
 
 # Tech-Stacks
 - SQL

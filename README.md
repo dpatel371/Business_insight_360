@@ -1,7 +1,10 @@
 # Business_insight_360
 # Project Overview
 AtliQ Hardware is growing rapidly in the recent years, they have decided to implement the data analytics sing powerBi for their comoany. Project is hoped to being the answers to all the questions od stakeholder with respect to finance, supply chain inventory, sales, and marketing.
-Project Link: [Business_insight_360_Live](https://www.novypro.com/project/business-insight-360-25)
+
+- Project Link: [Business_insight_360_Live](https://www.novypro.com/project/business-insight-360-25)
+- Github : [My_Profile](https://github.com/dpatel371/dpatel371)
+- LinkedIn : [My_LinkedIn_Profile](www.linkedin.com/in/dipeshpatel2810)
 
 # Tech-Stacks
 - SQL
@@ -38,3 +41,6 @@ Project Link: [Business_insight_360_Live](https://www.novypro.com/project/busine
 
 # Data Modelling
 Data model is vital step in creating the visualisation. Connection between the table helps in data accuracy and consistency and realtion is build using the snow flake schema the one of popular schema to be used for best practises.
+
+# Project Outcome
+By using this report for all C levels and all departments based on real data, this will help answering the plently of questions to solve the business need and problems. 
